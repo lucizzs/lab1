@@ -1,0 +1,17 @@
+{
+  "name": "smart-greenhouse-monitor",
+  "version": "1.0.0",
+  "description": "Smart Greenhouse Monitoring System",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest --coverage",
+    "lint": "eslint app.js"
+  },
+  "author": "Student Project",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "jest": "^29.7.0"
+  }
+}
